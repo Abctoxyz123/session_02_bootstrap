@@ -53,3 +53,18 @@
   padding: 4px 10px;
   margin-bottom: 8px;
 }
+#work-exp{
+    background-color: #C3205F;
+}
+.project{
+    background-color:#3C929F;
+}
+#contact{
+    background-color: #F1A638 !important;
+}
+.footer {
+  background-color: #F1A638;
+  min-height: 280px;
+  display: flex;
+  align-items: center;
+}
