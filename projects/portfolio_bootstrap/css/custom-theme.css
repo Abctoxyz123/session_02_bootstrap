@@ -22,3 +22,34 @@
 .skills{
     background-color: #3C929F;
 }
+#portfolio{
+    background-color: #C3205F;
+}
+#research{
+    background-color: #3C929F;
+    overflow: hidden;
+    /* height: 420px; */
+}
+.orange-box{
+    width: 650px;
+    height: 330px;
+    left: 19%;
+}
+.quote-box{
+    left: 43%;
+}
+.quote-box p {
+  margin: 50px;
+  font-size: 40px;
+  line-height: 1.45;
+  font-weight: 700;
+  color: white;
+  margin-left: 200px;
+  width: 650px;
+}
+.quote-box span {
+  display: inline-block;
+  background-color: #c21873;
+  padding: 4px 10px;
+  margin-bottom: 8px;
+}
